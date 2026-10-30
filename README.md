@@ -30,6 +30,8 @@ To write and execute an Assembly language program for finding the square of a gi
 ## OUTPUT
 
 
+<img width="1533" height="816" alt="WhatsApp Image 2026-10-30 at 10 14 42 AM" src="https://github.com/user-attachments/assets/a807d3d0-4e5b-4597-b57c-fc6a1fbaaf0f" />
+
 ## RESULT
 Thus, the square of the given data is calculated using 8051 Keil.
 
@@ -62,6 +64,9 @@ To write and execute an Assembly language program for finding the cube of a give
 
 
 ## OUTPUT
+
+<img width="1600" height="898" alt="image" src="https://github.com/user-attachments/assets/754d1c6f-c645-4c4d-8b63-01a66271b7c6" />
+
 
 ## RESULT
 Thus, the cube of the given data is calculated using 8051 Keil.
